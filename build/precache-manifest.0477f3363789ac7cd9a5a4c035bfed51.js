@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fb4315dadb8236fabdf0596a87e93f3",
+    "revision": "050f4016f0bdd85a0ae968f511edc19a",
     "url": "/MiniGoogleKeeperApp/index.html"
   },
   {
