@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/MiniGoogleKeeperApp/static/js/main.1990cdd7.chunk.js",
+    "main.js.map": "/MiniGoogleKeeperApp/static/js/main.1990cdd7.chunk.js.map",
+    "runtime-main.js": "/MiniGoogleKeeperApp/static/js/runtime-main.1cc6d82d.js",
+    "runtime-main.js.map": "/MiniGoogleKeeperApp/static/js/runtime-main.1cc6d82d.js.map",
+    "static/js/2.79aacc08.chunk.js": "/MiniGoogleKeeperApp/static/js/2.79aacc08.chunk.js",
+    "static/js/2.79aacc08.chunk.js.map": "/MiniGoogleKeeperApp/static/js/2.79aacc08.chunk.js.map",
+    "index.html": "/MiniGoogleKeeperApp/index.html",
+    "precache-manifest.d98ecc2f5f11cebb8296577c254917f1.js": "/MiniGoogleKeeperApp/precache-manifest.d98ecc2f5f11cebb8296577c254917f1.js",
+    "service-worker.js": "/MiniGoogleKeeperApp/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cc6d82d.js",
+    "static/js/2.79aacc08.chunk.js",
+    "static/js/main.1990cdd7.chunk.js"
+  ]
+}
