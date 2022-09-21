@@ -1,5 +1,6 @@
 {
   "name": "keeper-part-3-completed",
+  "homepage": "https://github-ItsWachira.github.io/MiniGoogleKeeperApp/",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -10,10 +11,13 @@
     "react-scripts": "3.2.0"
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "typescript": "3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages-d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
